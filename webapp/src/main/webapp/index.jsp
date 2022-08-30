@@ -1,10 +1,10 @@
-<h1> Hello, Welcome to BDnT Labs !!! </h1>
+<h1> Welcome to BDnT Labs !!! </h1>
 <form action="action_page.php">
   <div class="container">
     <h1>Register Form</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="Name"><b>Email</b></label>
+    <label for="Name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     <label for="email"><b>Email</b></label>
